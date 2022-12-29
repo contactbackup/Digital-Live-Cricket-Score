@@ -1,31 +1,31 @@
 [{
 		"teamName": "Islamabad United ",
-		"teamImage": "https://storage.cricingif.com/cig-live-images/team-images/22x22/islamabadunited.png",
+		"teamImage": "https://upload.wikimedia.org/wikipedia/en/9/92/Islamabad_United.png",
 		"teamPlayer": "https://raw.githubusercontent.com/contactbackup/Digital-Live-Cricket-Score/main/islamabad"
 	},
 	{
 		"teamName": "Multan Sultans ",
-		"teamImage": "https://storage.cricingif.com/cig-live-images/team-images/22x22/multansultans.png",
+		"teamImage": "https://upload.wikimedia.org/wikipedia/en/7/7f/MultanSultans.png",
 		"teamPlayer": "https://raw.githubusercontent.com/contactbackup/Digital-Live-Cricket-Score/main/multan"
 	},
 	{
 		"teamName": "Peshawar Zalmi ",
-		"teamImage": "https://storage.cricingif.com/cig-live-images/team-images/22x22/peshawarzalmi.png",
+		"teamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Peshawar_Zalmi_logo.png/200px-Peshawar_Zalmi_logo.png",
 		"teamPlayer": "https://raw.githubusercontent.com/contactbackup/Digital-Live-Cricket-Score/main/peshawar"
 	},
 	{
 		"teamName": "Karachi Kings ",
-		"teamImage": "https://storage.cricingif.com/cig-live-images/team-images/22x22/karachikings.png",
+		"teamImage": "https://upload.wikimedia.org/wikipedia/en/2/2a/Karachi_Kings.png",
 		"teamPlayer": "https://raw.githubusercontent.com/contactbackup/Digital-Live-Cricket-Score/main/Karachi"
 	},
 	{
 		"teamName": "Lahore Qalandars ",
-		"teamImage": "https://storage.cricingif.com/cig-live-images/team-images/22x22/lahoreqalandars.png",
+		"teamImage": "https://upload.wikimedia.org/wikipedia/en/6/63/Lahore_Qalandars.png",
 		"teamPlayer": "https://raw.githubusercontent.com/contactbackup/Digital-Live-Cricket-Score/main/Lahore"
 	},
 	{
 		"teamName": "Quetta Gladiators ",
-		"teamImage": "https://storage.cricingif.com/cig-live-images/team-images/22x22/quettagladiators.png",
+		"teamImage": "https://upload.wikimedia.org/wikipedia/en/d/d2/Quetta_Gladiators.png",
 		"teamPlayer": "https://raw.githubusercontent.com/contactbackup/Digital-Live-Cricket-Score/main/quetta"
 	}
 ]
