@@ -1,77 +1,77 @@
 [{
-		"playerName": "Babar Azam",
-		"playerImage": "https://en.wikipedia.org/wiki/Babar_Azam"
+		"PlayerName": "Babar Azam",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Babar_Azam"
 	},
 	{
-		"playerName": "Wahab Riaz",
-		"playerImage": "https://en.wikipedia.org/wiki/Wahab_Riaz"
+		"PlayerName": "Wahab Riaz",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Wahab_Riaz"
 	},
 	{
-		"playerName": "Tom Kohler-Cadmore",
-		"playerImage": "https://en.wikipedia.org/wiki/Tom_Kohler-Cadmore"
+		"PlayerName": "Tom Kohler-Cadmore",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Tom_Kohler-Cadmore"
 	},
 	{
-		"playerName": "Sherfane Rutherford",
-		"playerImage": "https://en.wikipedia.org/wiki/Sherfane_Rutherford"
+		"PlayerName": "Sherfane Rutherford",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Sherfane_Rutherford"
 	},
 	{
-		"playerName": "Salman Irshad",
-		"playerImage": "https://en.wikipedia.org/wiki/Salman_Irshad"
+		"PlayerName": "Salman Irshad",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Salman_Irshad"
 	},
 	{
-		"playerName": "Mohammad Haris",
-		"playerImage": "https://en.wikipedia.org/wiki/Mohammad_Haris"
+		"PlayerName": "Mohammad Haris",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Mohammad_Haris"
 	},
 	{
-		"playerName": "Aamer Jamal",
-		"playerImage": "https://en.wikipedia.org/wiki/Aamer_Jamal"
+		"PlayerName": "Aamer Jamal",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Aamer_Jamal"
 	},
 	{
-		"playerName": "Bhanuka Rajapaksa",
-		"playerImage": "https://en.wikipedia.org/wiki/Bhanuka_Rajapaksa"
+		"PlayerName": "Bhanuka Rajapaksa",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Bhanuka_Rajapaksa"
 	},
 	{
-		"playerName": "Rovman Powell",
-		"playerImage": "https://en.wikipedia.org/wiki/Rovman_Powell"
+		"PlayerName": "Rovman Powell",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Rovman_Powell"
 	},
 	{
-		"playerName": "Mujeeb Ur Rahman",
-		"playerImage": "https://en.wikipedia.org/wiki/Mujeeb_Ur_Rahman"
+		"PlayerName": "Mujeeb Ur Rahman",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Mujeeb_Ur_Rahman"
 	},
 	{
-		"playerName": "Danish Aziz",
-		"playerImage": "https://en.wikipedia.org/wiki/Danish_Aziz"
+		"PlayerName": "Danish Aziz",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Danish_Aziz"
 	},
 	{
-		"playerName": "Arshad Iqbal",
-		"playerImage": "https://en.wikipedia.org/wiki/Arshad_Iqbal"
+		"PlayerName": "Arshad Iqbal",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Arshad_Iqbal"
 	},
 	{
-		"playerName": "Usman Qadir",
-		"playerImage": "https://en.wikipedia.org/wiki/Usman_Qadir"
+		"PlayerName": "Usman Qadir",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Usman_Qadir"
 	},
 	{
-		"playerName": "Saim Ayub",
-		"playerImage": "https://en.wikipedia.org/wiki/Saim_Ayub"
+		"PlayerName": "Saim Ayub",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Saim_Ayub"
 	},
 	{
-		"playerName": "Haseebullah Khan",
-		"playerImage": "https://en.wikipedia.org/wiki/Haseebullah_Khan"
+		"PlayerName": "Haseebullah Khan",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Haseebullah_Khan"
 	},
 	{
-		"playerName": "James Neesham",
-		"playerImage": "https://en.wikipedia.org/wiki/James_Neesham"
+		"PlayerName": "James Neesham",
+		"PlayerImage": "https://en.wikipedia.org/wiki/James_Neesham"
 	},
 	{
-		"playerName": "Haris Sohail",
-		"playerImage": "https://en.wikipedia.org/wiki/Haris_Sohail"
+		"PlayerName": "Haris Sohail",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Haris_Sohail"
 	},
 	{
-		"playerName": "Khurram Shahzad",
-		"playerImage": "https://en.wikipedia.org/wiki/Khurram_Shahzad_(cricketer,_born_1999)"
+		"PlayerName": "Khurram Shahzad",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Khurram_Shahzad_(cricketer,_born_1999)"
 	},
 	{
-		"playerName": "Richard Gleeson",
-		"playerImage": "https://en.wikipedia.org/wiki/Richard_Gleeson"
+		"PlayerName": "Richard Gleeson",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Richard_Gleeson"
 	}
 ]
