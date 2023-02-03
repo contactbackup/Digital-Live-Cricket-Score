@@ -1,85 +1,85 @@
 [{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170768/babar-azam.jpg",
-		"PlayerName": "Babar Azam (Captain)"
+		"playerName": "Imad Wasim",
+		"playerImage": "https://en.wikipedia.org/wiki/Imad_Wasim"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c155558/sharjeel-khan.jpg",
-		"PlayerName": "Sharjeel Khan"
+		"playerName": "Mohammad Amir",
+		"playerImage": "https://en.wikipedia.org/wiki/Mohammad_Amir"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/sahibzada-farhan.jpg",
-		"PlayerName": "Sahibzada Farhan"
+		"playerName": "Aamer Yamin",
+		"playerImage": "https://en.wikipedia.org/wiki/Aamer_Yamin"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/qasim-akram.jpg",
-		"PlayerName": "Qasim Akram"
+		"playerName": "Sharjeel Khan",
+		"playerImage": "https://en.wikipedia.org/wiki/Sharjeel_Khan"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c158007/tom-abell.jpg",
-		"PlayerName": "Tom Abell"
+		"playerName": "Qasim Akram",
+		"playerImage": "https://en.wikipedia.org/wiki/Qasim_Akram"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c180929/lewis-gregory.jpg",
-		"PlayerName": "Lewis Gregory"
+		"playerName": "Mir Hamza",
+		"playerImage": "https://en.wikipedia.org/wiki/Mir_Hamza"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170782/imad-wasim.jpg",
-		"PlayerName": "Imad Wasim"
+		"playerName": "Shoaib Malik",
+		"playerImage": "https://en.wikipedia.org/wiki/Shoaib_Malik"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170853/mohammad-nabi.jpg",
-		"PlayerName": "Mohammad Nabi"
+		"playerName": "Haider Ali",
+		"playerImage": "https://en.wikipedia.org/wiki/Haider_Ali_(cricketer)"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/umaid-asif.jpg",
-		"PlayerName": "Umaid Asif"
+		"playerName": "Matthew Wade",
+		"playerImage": "https://en.wikipedia.org/wiki/Matthew_Wade"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/jordan-thompson.jpg",
-		"PlayerName": "Jordan Thompson"
+		"playerName": "Imran Tahir",
+		"playerImage": "https://en.wikipedia.org/wiki/Imran_Tahir"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/joe-clarke.jpg",
-		"PlayerName": "Joe Clarke"
+		"playerName": "James Vince",
+		"playerImage": "https://en.wikipedia.org/wiki/James_Vince"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c155978/rohail-nazir.jpg",
-		"PlayerName": "Rohail Nazir"
+		"playerName": "James Fuller",
+		"playerImage": "https://en.wikipedia.org/wiki/James_Fuller_(cricketer,_born_1990)"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/aamer-yamin.jpg",
-		"PlayerName": "Aamer Yamin"
+		"playerName": "Andrew Tye",
+		"playerImage": "https://en.wikipedia.org/wiki/Andrew_Tye"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c148144/chris-jordan.jpg",
-		"PlayerName": "Chris Jordan"
+		"playerName": "Tayyab Tahir",
+		"playerImage": "https://en.wikipedia.org/wiki/Tayyab_Tahir"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170813/mohammad-amir.jpg",
-		"PlayerName": "Mohammad Amir"
+		"playerName": "Muhammad Akhlaq",
+		"playerImage": "https://en.wikipedia.org/wiki/Muhammad_Akhlaq"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/mohammad-ilyas.jpg",
-		"PlayerName": "Mohammad Ilyas"
+		"playerName": "Irfan Khan",
+		"playerImage": "https://en.wikipedia.org/wiki/Irfan_Khan_(Pakistani_cricketer)"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/romario-shepherd.jpg",
-		"PlayerName": "Romario Shepherd"
+		"playerName": "Tabraiz Shamsi",
+		"playerImage": "https://en.wikipedia.org/wiki/Tabraiz_Shamsi"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c155512/mohammad-taha.jpg",
-		"PlayerName": "Mohammad Taha"
+		"playerName": "Mohammad Umar",
+		"playerImage": "https://en.wikipedia.org/wiki/Mohammad_Umar_(Sindh_cricketer)"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/mohammad-imran.jpg",
-		"PlayerName": "Mohammad Imran"
+		"playerName": "Ben Cutting",
+		"playerImage": "https://en.wikipedia.org/wiki/Ben_Cutting"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/faisal-akram.jpg",
-		"PlayerName": "Faisal Akram"
+		"playerName": "Muhammad Musa",
+		"playerImage": "https://en.wikipedia.org/wiki/Muhammad_Musa"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/talha-ahsan.jpg",
-		"PlayerName": "Talha Ahsan"
+		"playerName": "Faisal Akram",
+		"playerImage": "https://en.wikipedia.org/wiki/Faisal_Akram"
 	}
 ]
