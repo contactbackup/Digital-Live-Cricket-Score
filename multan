@@ -1,89 +1,89 @@
 [{
-		"playerName": "Mohammad Rizwan",
-		"playerImage": "https://en.wikipedia.org/wiki/Mohammad_Rizwan_(cricketer)"
+		"PlayerName": "Mohammad Rizwan",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Mohammad_Rizwan_(cricketer)"
 	},
 	{
-		"playerName": "Shan Masood",
-		"playerImage": "https://en.wikipedia.org/wiki/Shan_Masood"
+		"PlayerName": "Shan Masood",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Shan_Masood"
 	},
 	{
-		"playerName": "Shahnawaz Dahani",
-		"playerImage": "https://en.wikipedia.org/wiki/Shahnawaz_Dahani"
+		"PlayerName": "Shahnawaz Dahani",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Shahnawaz_Dahani"
 	},
 	{
-		"playerName": "Khushdil Shah",
-		"playerImage": "https://en.wikipedia.org/wiki/Khushdil_Shah"
+		"PlayerName": "Khushdil Shah",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Khushdil_Shah"
 	},
 	{
-		"playerName": "Rilee Rossouw",
-		"playerImage": "https://en.wikipedia.org/wiki/Rilee_Rossouw"
+		"PlayerName": "Rilee Rossouw",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Rilee_Rossouw"
 	},
 	{
-		"playerName": "Tim David",
-		"playerImage": "https://en.wikipedia.org/wiki/Tim_David"
+		"PlayerName": "Tim David",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Tim_David"
 	},
 	{
-		"playerName": "Abbas Afridi",
-		"playerImage": "https://en.wikipedia.org/wiki/Abbas_Afridi_(cricketer)"
+		"PlayerName": "Abbas Afridi",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Abbas_Afridi_(cricketer)"
 	},
 	{
-		"playerName": "Ihsanullah",
-		"playerImage": "https://en.wikipedia.org/wiki/Ihsanullah_(Pakistani_cricketer)"
+		"PlayerName": "Ihsanullah",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Ihsanullah_(Pakistani_cricketer)"
 	},
 	{
-		"playerName": "David Miller",
-		"playerImage": "https://en.wikipedia.org/wiki/David_Miller_(South_African_cricketer)"
+		"PlayerName": "David Miller",
+		"PlayerImage": "https://en.wikipedia.org/wiki/David_Miller_(South_African_cricketer)"
 	},
 	{
-		"playerName": "Josh Little",
-		"playerImage": "https://en.wikipedia.org/wiki/Josh_Little"
+		"PlayerName": "Josh Little",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Josh_Little"
 	},
 	{
-		"playerName": "Akeal Hosein",
-		"playerImage": "https://en.wikipedia.org/wiki/Akeal_Hosein"
+		"PlayerName": "Akeal Hosein",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Akeal_Hosein"
 	},
 	{
-		"playerName": "Usama Mir",
-		"playerImage": "https://en.wikipedia.org/wiki/Usama_Mir"
+		"PlayerName": "Usama Mir",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Usama_Mir"
 	},
 	{
-		"playerName": "Usman Khan",
-		"playerImage": "https://en.wikipedia.org/wiki/Usman_Khan_(cricketer)"
+		"PlayerName": "Usman Khan",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Usman_Khan_(cricketer)"
 	},
 	{
-		"playerName": "Sameen Gul",
-		"playerImage": "https://en.wikipedia.org/wiki/Sameen_Gul"
+		"PlayerName": "Sameen Gul",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Sameen_Gul"
 	},
 	{
-		"playerName": "Anwar Ali",
-		"playerImage": "https://en.wikipedia.org/wiki/Anwar_Ali_(cricketer)"
+		"PlayerName": "Anwar Ali",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Anwar_Ali_(cricketer)"
 	},
 	{
-		"playerName": "Mohammad Sarwar",
-		"playerImage": "https://en.wikipedia.org/wiki/Mohammad_Sarwar_(cricketer)"
+		"PlayerName": "Mohammad Sarwar",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Mohammad_Sarwar_(cricketer)"
 	},
 	{
-		"playerName": "Adil Rashid",
-		"playerImage": "https://en.wikipedia.org/wiki/Adil_Rashid"
+		"PlayerName": "Adil Rashid",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Adil_Rashid"
 	},
 	{
-		"playerName": "Arafat Minhas",
-		"playerImage": "https://en.wikipedia.org/wiki/Arafat_Minhas"
+		"PlayerName": "Arafat Minhas",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Arafat_Minhas"
 	},
 	{
-		"playerName": "Kieron Pollard",
-		"playerImage": "https://en.wikipedia.org/wiki/Kieron_Pollard"
+		"PlayerName": "Kieron Pollard",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Kieron_Pollard"
 	},
 	{
-		"playerName": "Amad Butt",
-		"playerImage": "https://en.wikipedia.org/wiki/Amad_Butt"
+		"PlayerName": "Amad Butt",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Amad_Butt"
 	},
 	{
-		"playerName": "Izharulhaq Naveed",
-		"playerImage": "https://en.wikipedia.org/wiki/Izharulhaq_Naveed"
+		"PlayerName": "Izharulhaq Naveed",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Izharulhaq_Naveed"
 	},
 	{
-		"playerName": "Wayne Parnell",
-		"playerImage": "https://en.wikipedia.org/wiki/Wayne_Parnell"
+		"PlayerName": "Wayne Parnell",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Wayne_Parnell"
 	}
 ]
