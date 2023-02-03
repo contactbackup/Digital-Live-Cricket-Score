@@ -1,77 +1,77 @@
 [{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/tom-kohler-cadmore.jpg",
-		"PlayerName": "Tom Kohler-Cadmore"
+		"playerName": "Babar Azam",
+		"playerImage": "https://en.wikipedia.org/wiki/Babar_Azam"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c171085/liam-livingstone.jpg",
-		"PlayerName": "Liam Livingstone"
+		"playerName": "Wahab Riaz",
+		"playerImage": "https://en.wikipedia.org/wiki/Wahab_Riaz"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c216087/haider-ali.jpg",
-		"PlayerName": "Haider Ali"
+		"playerName": "Tom Kohler-Cadmore",
+		"playerImage": "https://en.wikipedia.org/wiki/Tom_Kohler-Cadmore"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170833/hazratullah-zazai.jpg",
-		"PlayerName": "Hazratullah Zazai"
+		"playerName": "Sherfane Rutherford",
+		"playerImage": "https://en.wikipedia.org/wiki/Sherfane_Rutherford"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170775/shoaib-malik.jpg",
-		"PlayerName": "Shoaib Malik"
+		"playerName": "Salman Irshad",
+		"playerImage": "https://en.wikipedia.org/wiki/Salman_Irshad"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/sherfane-rutherford.jpg",
-		"PlayerName": "Sherfane Rutherford"
+		"playerName": "Mohammad Haris",
+		"playerImage": "https://en.wikipedia.org/wiki/Mohammad_Haris"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/hussain-talat.jpg",
-		"PlayerName": "Hussain Talat"
+		"playerName": "Aamer Jamal",
+		"playerImage": "https://en.wikipedia.org/wiki/Aamer_Jamal"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/salman-irshad.jpg",
-		"PlayerName": "Salman Irshad"
+		"playerName": "Bhanuka Rajapaksa",
+		"playerImage": "https://en.wikipedia.org/wiki/Bhanuka_Rajapaksa"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c171073/ben-cutting.jpg",
-		"PlayerName": "Ben Cutting"
+		"playerName": "Rovman Powell",
+		"playerImage": "https://en.wikipedia.org/wiki/Rovman_Powell"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/kamran-akmal.jpg",
-		"PlayerName": "Kamran Akmal"
+		"playerName": "Mujeeb Ur Rahman",
+		"playerImage": "https://en.wikipedia.org/wiki/Mujeeb_Ur_Rahman"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/mohammad-haris.jpg",
-		"PlayerName": "Mohammad Haris"
+		"playerName": "Danish Aziz",
+		"playerImage": "https://en.wikipedia.org/wiki/Danish_Aziz"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170809/wahab-riaz.jpg",
-		"PlayerName": "Wahab Riaz (Captain)"
+		"playerName": "Arshad Iqbal",
+		"playerImage": "https://en.wikipedia.org/wiki/Arshad_Iqbal"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c156545/saqib-mahmood.jpg",
-		"PlayerName": "Saqib Mahmood"
+		"playerName": "Usman Qadir",
+		"playerImage": "https://en.wikipedia.org/wiki/Usman_Qadir"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c156795/usman-qadir.jpg",
-		"PlayerName": "Usman Qadir"
+		"playerName": "Saim Ayub",
+		"playerImage": "https://en.wikipedia.org/wiki/Saim_Ayub"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/mohammad-aamir-khan.jpg",
-		"PlayerName": "Mohammad Aamir Khan"
+		"playerName": "Haseebullah Khan",
+		"playerImage": "https://en.wikipedia.org/wiki/Haseebullah_Khan"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/mohammad-umar.jpg",
-		"PlayerName": "Mohammad Umar"
+		"playerName": "James Neesham",
+		"playerImage": "https://en.wikipedia.org/wiki/James_Neesham"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c156798/arshad-iqbal.jpg",
-		"PlayerName": "Arshad Iqbal"
+		"playerName": "Haris Sohail",
+		"playerImage": "https://en.wikipedia.org/wiki/Haris_Sohail"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/sameen-gul.jpg",
-		"PlayerName": "Sameen Gul"
+		"playerName": "Khurram Shahzad",
+		"playerImage": "https://en.wikipedia.org/wiki/Khurram_Shahzad_(cricketer,_born_1999)"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/sirajuddin.jpg",
-		"PlayerName": "Sirajuddin"
+		"playerName": "Richard Gleeson",
+		"playerImage": "https://en.wikipedia.org/wiki/Richard_Gleeson"
 	}
 ]
