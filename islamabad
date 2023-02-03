@@ -1,85 +1,85 @@
 [{
-		"PlayerName": "Shadab Khan",
-		"PlayerImage": "https://en.wikipedia.org/wiki/Shadab_Khan"
+		"playerName": "Shadab Khan",
+		"playerImage": "https://en.wikipedia.org/wiki/Shadab_Khan"
 	},
 	{
-		"PlayerName": "Asif Ali",
-		"PlayerImage": "https://en.wikipedia.org/wiki/Asif_Ali_(cricketer,_born_1991)"
+		"playerName": "Asif Ali",
+		"playerImage": "https://en.wikipedia.org/wiki/Asif_Ali_(cricketer,_born_1991)"
 	},
 	{
-		"PlayerName": "Azam Khan",
-		"PlayerImage": "https://en.wikipedia.org/wiki/Azam_Khan_(cricketer,_born_1998)"
+		"playerName": "Azam Khan",
+		"playerImage": "https://en.wikipedia.org/wiki/Azam_Khan_(cricketer,_born_1998)"
 	},
 	{
-		"PlayerName": "Hasan Ali",
-		"PlayerImage": "https://en.wikipedia.org/wiki/Hasan_Ali_(cricketer)"
+		"playerName": "Hasan Ali",
+		"playerImage": "https://en.wikipedia.org/wiki/Hasan_Ali_(cricketer)"
 	},
 	{
-		"PlayerName": "Faheem Ashraf",
-		"PlayerImage": "https://en.wikipedia.org/wiki/Faheem_Ashraf"
+		"playerName": "Faheem Ashraf",
+		"playerImage": "https://en.wikipedia.org/wiki/Faheem_Ashraf"
 	},
 	{
-		"PlayerName": "Mohammad Wasim",
-		"PlayerImage": "https://en.wikipedia.org/wiki/Mohammad_Wasim_(cricketer,_born_2001)"
+		"playerName": "Mohammad Wasim",
+		"playerImage": "https://en.wikipedia.org/wiki/Mohammad_Wasim_(cricketer,_born_2001)"
 	},
 	{
-		"PlayerName": "Paul Stirling",
-		"PlayerImage": "https://en.wikipedia.org/wiki/Paul_Stirling"
+		"playerName": "Paul Stirling",
+		"playerImage": "https://en.wikipedia.org/wiki/Paul_Stirling"
 	},
 	{
-		"PlayerName": "Colin Munro",
-		"PlayerImage": "https://en.wikipedia.org/wiki/Colin_Munro"
+		"playerName": "Colin Munro",
+		"playerImage": "https://en.wikipedia.org/wiki/Colin_Munro"
 	},
 	{
-		"PlayerName": "Alex Hales",
-		"PlayerImage": "https://en.wikipedia.org/wiki/Alex_Hales"
+		"playerName": "Alex Hales",
+		"playerImage": "https://en.wikipedia.org/wiki/Alex_Hales"
 	},
 	{
-		"PlayerName": "Rahmanullah Gurbaz",
-		"PlayerImage": "https://en.wikipedia.org/wiki/Rahmanullah_Gurbaz"
+		"playerName": "Rahmanullah Gurbaz",
+		"playerImage": "https://en.wikipedia.org/wiki/Rahmanullah_Gurbaz"
 	},
 	{
-		"PlayerName": "Fazalhaq Farooqi",
-		"PlayerImage": "https://en.wikipedia.org/wiki/Fazalhaq_Farooqi"
+		"playerName": "Fazalhaq Farooqi",
+		"playerImage": "https://en.wikipedia.org/wiki/Fazalhaq_Farooqi"
 	},
 	{
-		"PlayerName": "Abrar Ahmed",
-		"PlayerImage": "https://en.wikipedia.org/wiki/Abrar_Ahmed_(Pakistani_cricketer)"
+		"playerName": "Abrar Ahmed",
+		"playerImage": "https://en.wikipedia.org/wiki/Abrar_Ahmed_(Pakistani_cricketer)"
 	},
 	{
-		"PlayerName": "Sohaib Maqsood",
-		"PlayerImage": "https://en.wikipedia.org/wiki/Sohaib_Maqsood"
+		"playerName": "Sohaib Maqsood",
+		"playerImage": "https://en.wikipedia.org/wiki/Sohaib_Maqsood"
 	},
 	{
-		"PlayerName": "Rumman Raees",
-		"PlayerImage": "https://en.wikipedia.org/wiki/Rumman_Raees"
+		"playerName": "Rumman Raees",
+		"playerImage": "https://en.wikipedia.org/wiki/Rumman_Raees"
 	},
 	{
-		"PlayerName": "Zeeshan Zameer",
-		"PlayerImage": "https://en.wikipedia.org/wiki/Zeeshan_Zameer"
+		"playerName": "Zeeshan Zameer",
+		"playerImage": "https://en.wikipedia.org/wiki/Zeeshan_Zameer"
 	},
 	{
-		"PlayerName": "Hassan Nawaz",
-		"PlayerImage": "https://en.wikipedia.org/wiki/Hassan_Nawaz_(cricketer)"
+		"playerName": "Hassan Nawaz",
+		"playerImage": "https://en.wikipedia.org/wiki/Hassan_Nawaz_(cricketer)"
 	},
 	{
-		"PlayerName": "Moeen Ali",
-		"PlayerImage": "https://en.wikipedia.org/wiki/Moeen_Ali"
+		"playerName": "Moeen Ali",
+		"playerImage": "https://en.wikipedia.org/wiki/Moeen_Ali"
 	},
 	{
-		"PlayerName": "Mubasir Khan",
-		"PlayerImage": "https://en.wikipedia.org/wiki/Mubasir_Khan"
+		"playerName": "Mubasir Khan",
+		"playerImage": "https://en.wikipedia.org/wiki/Mubasir_Khan"
 	},
 	{
-		"PlayerName": "Tom Curran",
-		"PlayerImage": "https://en.wikipedia.org/wiki/Tom_Curran_(cricketer)"
+		"playerName": "Tom Curran",
+		"playerImage": "https://en.wikipedia.org/wiki/Tom_Curran_(cricketer)"
 	},
 	{
-		"PlayerName": "Zafar Gohar",
-		"PlayerImage": "https://en.wikipedia.org/wiki/Zafar_Gohar"
+		"playerName": "Zafar Gohar",
+		"playerImage": "https://en.wikipedia.org/wiki/Zafar_Gohar"
 	},
 	{
-		"PlayerName": "Gus Atkinson",
-		"PlayerImage": "https://en.wikipedia.org/wiki/Gus_Atkinson"
+		"playerName": "Gus Atkinson",
+		"playerImage": "https://en.wikipedia.org/wiki/Gus_Atkinson"
 	}
 ]
