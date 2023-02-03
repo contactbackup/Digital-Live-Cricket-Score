@@ -1,85 +1,85 @@
 [{
-		"playerName": "Sarfaraz Ahmed",
-		"playerImage": "https://en.wikipedia.org/wiki/Sarfaraz_Ahmed"
+		"PlayerName": "Sarfaraz Ahmed",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Sarfaraz_Ahmed"
 	},
 	{
-		"playerName": "Mohammad Nawaz",
-		"playerImage": "https://en.wikipedia.org/wiki/Mohammad_Nawaz_(cricketer)"
+		"PlayerName": "Mohammad Nawaz",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Mohammad_Nawaz_(cricketer)"
 	},
 	{
-		"playerName": "Iftikhar Ahmed",
-		"playerImage": "https://en.wikipedia.org/wiki/Iftikhar_Ahmed_(cricketer)"
+		"PlayerName": "Iftikhar Ahmed",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Iftikhar_Ahmed_(cricketer)"
 	},
 	{
-		"playerName": "Mohammad Hasnain",
-		"playerImage": "https://en.wikipedia.org/wiki/Mohammad_Hasnain"
+		"PlayerName": "Mohammad Hasnain",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Mohammad_Hasnain"
 	},
 	{
-		"playerName": "Jason Roy",
-		"playerImage": "https://en.wikipedia.org/wiki/Jason_Roy"
+		"PlayerName": "Jason Roy",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Jason_Roy"
 	},
 	{
-		"playerName": "Umar Akmal",
-		"playerImage": "https://en.wikipedia.org/wiki/Umar_Akmal"
+		"PlayerName": "Umar Akmal",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Umar_Akmal"
 	},
 	{
-		"playerName": "Naveen-ul-Haq",
-		"playerImage": "https://en.wikipedia.org/wiki/Naveen-ul-Haq"
+		"PlayerName": "Naveen-ul-Haq",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Naveen-ul-Haq"
 	},
 	{
-		"playerName": "Will Smeed",
-		"playerImage": "https://en.wikipedia.org/wiki/Will_Smeed"
+		"PlayerName": "Will Smeed",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Will_Smeed"
 	},
 	{
-		"playerName": "Wanindu Hasaranga",
-		"playerImage": "https://en.wikipedia.org/wiki/Wanindu_Hasaranga"
+		"PlayerName": "Wanindu Hasaranga",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Wanindu_Hasaranga"
 	},
 	{
-		"playerName": "Naseem Shah",
-		"playerImage": "https://en.wikipedia.org/wiki/Naseem_Shah_(cricketer)"
+		"PlayerName": "Naseem Shah",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Naseem_Shah_(cricketer)"
 	},
 	{
-		"playerName": "Odean Smith",
-		"playerImage": "https://en.wikipedia.org/wiki/Odean_Smith"
+		"PlayerName": "Odean Smith",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Odean_Smith"
 	},
 	{
-		"playerName": "Ahsan Ali",
-		"playerImage": "https://en.wikipedia.org/wiki/Ahsan_Ali_(cricketer)"
+		"PlayerName": "Ahsan Ali",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Ahsan_Ali_(cricketer)"
 	},
 	{
-		"playerName": "Umaid Asif",
-		"playerImage": "https://en.wikipedia.org/wiki/Umaid_Asif"
+		"PlayerName": "Umaid Asif",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Umaid_Asif"
 	},
 	{
-		"playerName": "Abdul Bangalzai",
-		"playerImage": "https://en.wikipedia.org/wiki/Abdul_Bangalzai"
+		"PlayerName": "Abdul Bangalzai",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Abdul_Bangalzai"
 	},
 	{
-		"playerName": "Martin Guptill",
-		"playerImage": "https://en.wikipedia.org/wiki/Martin_Guptill"
+		"PlayerName": "Martin Guptill",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Martin_Guptill"
 	},
 	{
-		"playerName": "Omair Yousuf",
-		"playerImage": "https://en.wikipedia.org/wiki/Omair_Yousuf"
+		"PlayerName": "Omair Yousuf",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Omair_Yousuf"
 	},
 	{
-		"playerName": "Qais Ahmad",
-		"playerImage": "https://en.wikipedia.org/wiki/Qais_Ahmad"
+		"PlayerName": "Qais Ahmad",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Qais_Ahmad"
 	},
 	{
-		"playerName": "Saud Shakeel",
-		"playerImage": "https://en.wikipedia.org/wiki/Saud_Shakeel"
+		"PlayerName": "Saud Shakeel",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Saud_Shakeel"
 	},
 	{
-		"playerName": "Nuwan Thushara",
-		"playerImage": "https://en.wikipedia.org/wiki/Nuwan_Thushara"
+		"PlayerName": "Nuwan Thushara",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Nuwan_Thushara"
 	},
 	{
-		"playerName": "Dwaine Pretorius",
-		"playerImage": "https://en.wikipedia.org/wiki/Dwaine_Pretorius"
+		"PlayerName": "Dwaine Pretorius",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Dwaine_Pretorius"
 	},
 	{
-		"playerName": "Will Jacks",
-		"playerImage": "https://en.wikipedia.org/wiki/Will_Jacks"
+		"PlayerName": "Will Jacks",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Will_Jacks"
 	}
 ]
