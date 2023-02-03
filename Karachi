@@ -1,85 +1,85 @@
 [{
-		"playerName": "Imad Wasim",
-		"playerImage": "https://en.wikipedia.org/wiki/Imad_Wasim"
+		"PlayerName": "Imad Wasim",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Imad_Wasim"
 	},
 	{
-		"playerName": "Mohammad Amir",
-		"playerImage": "https://en.wikipedia.org/wiki/Mohammad_Amir"
+		"PlayerName": "Mohammad Amir",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Mohammad_Amir"
 	},
 	{
-		"playerName": "Aamer Yamin",
-		"playerImage": "https://en.wikipedia.org/wiki/Aamer_Yamin"
+		"PlayerName": "Aamer Yamin",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Aamer_Yamin"
 	},
 	{
-		"playerName": "Sharjeel Khan",
-		"playerImage": "https://en.wikipedia.org/wiki/Sharjeel_Khan"
+		"PlayerName": "Sharjeel Khan",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Sharjeel_Khan"
 	},
 	{
-		"playerName": "Qasim Akram",
-		"playerImage": "https://en.wikipedia.org/wiki/Qasim_Akram"
+		"PlayerName": "Qasim Akram",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Qasim_Akram"
 	},
 	{
-		"playerName": "Mir Hamza",
-		"playerImage": "https://en.wikipedia.org/wiki/Mir_Hamza"
+		"PlayerName": "Mir Hamza",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Mir_Hamza"
 	},
 	{
-		"playerName": "Shoaib Malik",
-		"playerImage": "https://en.wikipedia.org/wiki/Shoaib_Malik"
+		"PlayerName": "Shoaib Malik",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Shoaib_Malik"
 	},
 	{
-		"playerName": "Haider Ali",
-		"playerImage": "https://en.wikipedia.org/wiki/Haider_Ali_(cricketer)"
+		"PlayerName": "Haider Ali",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Haider_Ali_(cricketer)"
 	},
 	{
-		"playerName": "Matthew Wade",
-		"playerImage": "https://en.wikipedia.org/wiki/Matthew_Wade"
+		"PlayerName": "Matthew Wade",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Matthew_Wade"
 	},
 	{
-		"playerName": "Imran Tahir",
-		"playerImage": "https://en.wikipedia.org/wiki/Imran_Tahir"
+		"PlayerName": "Imran Tahir",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Imran_Tahir"
 	},
 	{
-		"playerName": "James Vince",
-		"playerImage": "https://en.wikipedia.org/wiki/James_Vince"
+		"PlayerName": "James Vince",
+		"PlayerImage": "https://en.wikipedia.org/wiki/James_Vince"
 	},
 	{
-		"playerName": "James Fuller",
-		"playerImage": "https://en.wikipedia.org/wiki/James_Fuller_(cricketer,_born_1990)"
+		"PlayerName": "James Fuller",
+		"PlayerImage": "https://en.wikipedia.org/wiki/James_Fuller_(cricketer,_born_1990)"
 	},
 	{
-		"playerName": "Andrew Tye",
-		"playerImage": "https://en.wikipedia.org/wiki/Andrew_Tye"
+		"PlayerName": "Andrew Tye",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Andrew_Tye"
 	},
 	{
-		"playerName": "Tayyab Tahir",
-		"playerImage": "https://en.wikipedia.org/wiki/Tayyab_Tahir"
+		"PlayerName": "Tayyab Tahir",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Tayyab_Tahir"
 	},
 	{
-		"playerName": "Muhammad Akhlaq",
-		"playerImage": "https://en.wikipedia.org/wiki/Muhammad_Akhlaq"
+		"PlayerName": "Muhammad Akhlaq",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Muhammad_Akhlaq"
 	},
 	{
-		"playerName": "Irfan Khan",
-		"playerImage": "https://en.wikipedia.org/wiki/Irfan_Khan_(Pakistani_cricketer)"
+		"PlayerName": "Irfan Khan",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Irfan_Khan_(Pakistani_cricketer)"
 	},
 	{
-		"playerName": "Tabraiz Shamsi",
-		"playerImage": "https://en.wikipedia.org/wiki/Tabraiz_Shamsi"
+		"PlayerName": "Tabraiz Shamsi",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Tabraiz_Shamsi"
 	},
 	{
-		"playerName": "Mohammad Umar",
-		"playerImage": "https://en.wikipedia.org/wiki/Mohammad_Umar_(Sindh_cricketer)"
+		"PlayerName": "Mohammad Umar",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Mohammad_Umar_(Sindh_cricketer)"
 	},
 	{
-		"playerName": "Ben Cutting",
-		"playerImage": "https://en.wikipedia.org/wiki/Ben_Cutting"
+		"PlayerName": "Ben Cutting",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Ben_Cutting"
 	},
 	{
-		"playerName": "Muhammad Musa",
-		"playerImage": "https://en.wikipedia.org/wiki/Muhammad_Musa"
+		"PlayerName": "Muhammad Musa",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Muhammad_Musa"
 	},
 	{
-		"playerName": "Faisal Akram",
-		"playerImage": "https://en.wikipedia.org/wiki/Faisal_Akram"
+		"PlayerName": "Faisal Akram",
+		"PlayerImage": "https://en.wikipedia.org/wiki/Faisal_Akram"
 	}
 ]
