@@ -1,85 +1,85 @@
 [{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170770/asif-ali.jpg",
-		"PlayerName": "Asif Ali"
+		"playerName": "Shadab Khan",
+		"playerImage": "https://en.wikipedia.org/wiki/Shadab_Khan"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c156171/alex-hales.jpg",
-		"PlayerName": "Alex Hales"
+		"playerName": "Asif Ali",
+		"playerImage": "https://en.wikipedia.org/wiki/Asif_Ali_(cricketer,_born_1991)"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/mohammad-huraira.jpg",
-		"PlayerName": "Mohammad Huraira"
+		"playerName": "Azam Khan",
+		"playerImage": "https://en.wikipedia.org/wiki/Azam_Khan_(cricketer,_born_1998)"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/mubasir-khan.jpg",
-		"PlayerName": "Mubasir Khan"
+		"playerName": "Hasan Ali",
+		"playerImage": "https://en.wikipedia.org/wiki/Hasan_Ali_(cricketer)"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170737/colin-munro.jpg",
-		"PlayerName": "Colin Munro"
+		"playerName": "Faheem Ashraf",
+		"playerImage": "https://en.wikipedia.org/wiki/Faheem_Ashraf"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c171115/paul-stirling.jpg",
-		"PlayerName": "Paul Stirling"
+		"playerName": "Mohammad Wasim",
+		"playerImage": "https://en.wikipedia.org/wiki/Mohammad_Wasim_(cricketer,_born_2001)"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/danish-aziz.jpg",
-		"PlayerName": "Danish Aziz"
+		"playerName": "Paul Stirling",
+		"playerImage": "https://en.wikipedia.org/wiki/Paul_Stirling"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c148313/faheem-ashraf.jpg",
-		"PlayerName": "Faheem Ashraf"
+		"playerName": "Colin Munro",
+		"playerImage": "https://en.wikipedia.org/wiki/Colin_Munro"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c216088/mohammad-wasim-jr.jpg",
-		"PlayerName": "Mohammad Wasim Jr"
+		"playerName": "Alex Hales",
+		"playerImage": "https://en.wikipedia.org/wiki/Alex_Hales"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170779/shadab-khan.jpg",
-		"PlayerName": "Shadab Khan (Captain)"
+		"playerName": "Rahmanullah Gurbaz",
+		"playerImage": "https://en.wikipedia.org/wiki/Rahmanullah_Gurbaz"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/azam-khan.jpg",
-		"PlayerName": "Azam Khan"
+		"playerName": "Fazalhaq Farooqi",
+		"playerImage": "https://en.wikipedia.org/wiki/Fazalhaq_Farooqi"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/rahmanullah-gurbaz.jpg",
-		"PlayerName": "Rahmanullah Gurbaz"
+		"playerName": "Abrar Ahmed",
+		"playerImage": "https://en.wikipedia.org/wiki/Abrar_Ahmed_(Pakistani_cricketer)"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/athar-mahmood.jpg",
-		"PlayerName": "Athar Mahmood"
+		"playerName": "Sohaib Maqsood",
+		"playerImage": "https://en.wikipedia.org/wiki/Sohaib_Maqsood"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c156939/marchant-de-lange.jpg",
-		"PlayerName": "Marchant de Lange"
+		"playerName": "Rumman Raees",
+		"playerImage": "https://en.wikipedia.org/wiki/Rumman_Raees"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170804/hasan-ali.jpg",
-		"PlayerName": "Hasan Ali"
+		"playerName": "Zeeshan Zameer",
+		"playerImage": "https://en.wikipedia.org/wiki/Zeeshan_Zameer"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/reece-topley.jpg",
-		"PlayerName": "Reece Topley"
+		"playerName": "Hassan Nawaz",
+		"playerImage": "https://en.wikipedia.org/wiki/Hassan_Nawaz_(cricketer)"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c157137/zafar-gohar.jpg",
-		"PlayerName": "Zafar Gohar"
+		"playerName": "Moeen Ali",
+		"playerImage": "https://en.wikipedia.org/wiki/Moeen_Ali"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/zeeshan-zameer.jpg",
-		"PlayerName": "Zeeshan Zameer"
+		"playerName": "Mubasir Khan",
+		"playerImage": "https://en.wikipedia.org/wiki/Mubasir_Khan"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c156772/muhammad-musa.jpg",
-		"PlayerName": "Muhammad Musa"
+		"playerName": "Tom Curran",
+		"playerImage": "https://en.wikipedia.org/wiki/Tom_Curran_(cricketer)"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/zahir-khan.jpg",
-		"PlayerName": "Zahir Khan"
+		"playerName": "Zafar Gohar",
+		"playerImage": "https://en.wikipedia.org/wiki/Zafar_Gohar"
 	},
 	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/muhammad-akhlaq.jpg",
-		"PlayerName": "Muhammad Akhlaq"
+		"playerName": "Gus Atkinson",
+		"playerImage": "https://en.wikipedia.org/wiki/Gus_Atkinson"
 	}
 ]
