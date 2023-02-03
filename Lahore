@@ -1,85 +1,74 @@
-[{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170763/fakhar-zaman.jpg",
-		"PlayerName": "Fakhar Zaman"
-	},
-	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/abdullah-shafique.jpg",
-		"PlayerName": "Abdullah Shafique"
-	},
-	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c156831/harry-brook.jpg",
-		"PlayerName": "Harry Brook"
-	},
-	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/sohail-akhtar.jpg",
-		"PlayerName": "Sohail Akhtar"
-	},
-	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170776/mohammad-hafeez.jpg",
-		"PlayerName": "Mohammad Hafeez"
-	},
-	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/david-wiese.jpg",
-		"PlayerName": "David Wiese"
-	},
-	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c158546/samit-patel.jpg",
-		"PlayerName": "Samit Patel"
-	},
-	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c157139/kamran-ghulam.jpg",
-		"PlayerName": "Kamran Ghulam"
-	},
-	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/dean-foxcroft.jpg",
-		"PlayerName": "Dean Foxcroft"
-	},
-	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/mohammad-imran-randhawa.jpg",
-		"PlayerName": "Mohammad Imran Randhawa"
-	},
-	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/zeeshan-ashraf.jpg",
-		"PlayerName": "Zeeshan Ashraf"
-	},
-	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/philip-salt.jpg",
-		"PlayerName": "Philip Salt"
-	},
-	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c154700/ben-dunk.jpg",
-		"PlayerName": "Ben Dunk"
-	},
-	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170802/shaheen-afridi.jpg",
-		"PlayerName": "Shaheen Afridi (Captain)"
-	},
-	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c216090/haris-rauf.jpg",
-		"PlayerName": "Haris Rauf"
-	},
-	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c170857/rashid-khan.jpg",
-		"PlayerName": "Rashid Khan"
-	},
-	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/ahmed-daniyal.jpg",
-		"PlayerName": "Ahmed Daniyal"
-	},
-	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/maaz-khan.jpg",
-		"PlayerName": "Maaz Khan"
-	},
-	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/syed-faridoun.jpg",
-		"PlayerName": "Syed Faridoun"
-	},
-	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/akif-javed.jpg",
-		"PlayerName": "Akif Javed"
-	},
-	{
-		"PlayerImage": "https://www.cricbuzz.com/a/img/v1/192x192/i1/c174146/zaman-khan.jpg",
-		"PlayerName": "Zaman Khan"
-	}
+[
+{
+"playerName":"Shaheen Afridi",
+"playerImage":"https://en.wikipedia.org/wiki/Shaheen_Afridi"
+},
+{
+"playerName":"Haris Rauf",
+"playerImage":"https://en.wikipedia.org/wiki/Haris_Rauf"
+},
+{
+"playerName":"Rashid Khan",
+"playerImage":"https://en.wikipedia.org/wiki/Rashid_Khan"
+},
+{
+"playerName":"David Wiese",
+"playerImage":"https://en.wikipedia.org/wiki/David_Wiese"
+},
+{
+"playerName":"Abdullah Shafique",
+"playerImage":"https://en.wikipedia.org/wiki/Abdullah_Shafique"
+},
+{
+"playerName":"Harry Brook",
+"playerImage":"https://en.wikipedia.org/wiki/Harry_Brook"
+},
+{
+"playerName":"Kamran Ghulam",
+"playerImage":"https://en.wikipedia.org/wiki/Kamran_Ghulam"
+},
+{
+"playerName":"Zaman Khan",
+"playerImage":"https://en.wikipedia.org/wiki/Zaman_Khan"
+},
+{
+"playerName":"Fakhar Zaman",
+"playerImage":"https://en.wikipedia.org/wiki/Fakhar_Zaman_(cricketer)"
+},
+{
+"playerName":"Hussain Talat",
+"playerImage":"https://en.wikipedia.org/wiki/Hussain_Talat"
+},
+{
+"playerName":"Sikandar Raza",
+"playerImage":"https://en.wikipedia.org/wiki/Sikandar_Raza"
+},
+{
+"playerName":"Liam Dawson",
+"playerImage":"https://en.wikipedia.org/wiki/Liam_Dawson"
+},
+{
+"playerName":"Dilbar Hussain",
+"playerImage":"https://en.wikipedia.org/wiki/Dilbar_Hussain"
+},
+{
+"playerName":"Ahmed Daniyal",
+"playerImage":"https://en.wikipedia.org/wiki/Ahmed_Daniyal"
+},
+{
+"playerName":"Jordan Cox",
+"playerImage":"https://en.wikipedia.org/wiki/Jordan_Cox_(cricketer)"
+},
+{
+"playerName":"Sam Billings",
+"playerImage":"https://en.wikipedia.org/wiki/Sam_Billings"
+},
+{
+"playerName":"Kusal Mendis",
+"playerImage":"https://en.wikipedia.org/wiki/Kusal_Mendis"
+},
+{
+"playerName":"Shane Dadswell",
+"playerImage":"https://en.wikipedia.org/wiki/Shane_Dadswell"
+}
 ]
