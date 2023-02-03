@@ -1,9 +1,85 @@
 [{
-		"PlayerName": "Shadab Khan ",
-		"PlayerImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170779/shadab-khan.jpg"
+		"playerName": "Shadab Khan",
+		"playerImage": "https://en.wikipedia.org/wiki/Shadab_Khan"
 	},
 	{
-		"PlayerName": "Azam Khan ",
-		"PlayerImage": "https://storage.cricingif.com/cig-live-images/player-images/13015.png"
+		"playerName": "Asif Ali",
+		"playerImage": "https://en.wikipedia.org/wiki/Asif_Ali_(cricketer,_born_1991)"
+	},
+	{
+		"playerName": "Azam Khan",
+		"playerImage": "https://en.wikipedia.org/wiki/Azam_Khan_(cricketer,_born_1998)"
+	},
+	{
+		"playerName": "Hasan Ali",
+		"playerImage": "https://en.wikipedia.org/wiki/Hasan_Ali_(cricketer)"
+	},
+	{
+		"playerName": "Faheem Ashraf",
+		"playerImage": "https://en.wikipedia.org/wiki/Faheem_Ashraf"
+	},
+	{
+		"playerName": "Mohammad Wasim",
+		"playerImage": "https://en.wikipedia.org/wiki/Mohammad_Wasim_(cricketer,_born_2001)"
+	},
+	{
+		"playerName": "Paul Stirling",
+		"playerImage": "https://en.wikipedia.org/wiki/Paul_Stirling"
+	},
+	{
+		"playerName": "Colin Munro",
+		"playerImage": "https://en.wikipedia.org/wiki/Colin_Munro"
+	},
+	{
+		"playerName": "Alex Hales",
+		"playerImage": "https://en.wikipedia.org/wiki/Alex_Hales"
+	},
+	{
+		"playerName": "Rahmanullah Gurbaz",
+		"playerImage": "https://en.wikipedia.org/wiki/Rahmanullah_Gurbaz"
+	},
+	{
+		"playerName": "Fazalhaq Farooqi",
+		"playerImage": "https://en.wikipedia.org/wiki/Fazalhaq_Farooqi"
+	},
+	{
+		"playerName": "Abrar Ahmed",
+		"playerImage": "https://en.wikipedia.org/wiki/Abrar_Ahmed_(Pakistani_cricketer)"
+	},
+	{
+		"playerName": "Sohaib Maqsood",
+		"playerImage": "https://en.wikipedia.org/wiki/Sohaib_Maqsood"
+	},
+	{
+		"playerName": "Rumman Raees",
+		"playerImage": "https://en.wikipedia.org/wiki/Rumman_Raees"
+	},
+	{
+		"playerName": "Zeeshan Zameer",
+		"playerImage": "https://en.wikipedia.org/wiki/Zeeshan_Zameer"
+	},
+	{
+		"playerName": "Hassan Nawaz",
+		"playerImage": "https://en.wikipedia.org/wiki/Hassan_Nawaz_(cricketer)"
+	},
+	{
+		"playerName": "Moeen Ali",
+		"playerImage": "https://en.wikipedia.org/wiki/Moeen_Ali"
+	},
+	{
+		"playerName": "Mubasir Khan",
+		"playerImage": "https://en.wikipedia.org/wiki/Mubasir_Khan"
+	},
+	{
+		"playerName": "Tom Curran",
+		"playerImage": "https://en.wikipedia.org/wiki/Tom_Curran_(cricketer)"
+	},
+	{
+		"playerName": "Zafar Gohar",
+		"playerImage": "https://en.wikipedia.org/wiki/Zafar_Gohar"
+	},
+	{
+		"playerName": "Gus Atkinson",
+		"playerImage": "https://en.wikipedia.org/wiki/Gus_Atkinson"
 	}
 ]
